@@ -3,7 +3,7 @@ source "qemu" "windows" {
   communicator = "none"
   machine_type = "q35"
   efi_boot     = true
-  cores        = 2
+  cores        = 4
   memory       = 4096
   accelerator  = "kvm"
 
