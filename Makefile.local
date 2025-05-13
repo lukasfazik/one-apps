@@ -1,3 +1,0 @@
-VERBOSE := 0
-PACKER_LOG := 1
-PACKER_HEADLESS := true
