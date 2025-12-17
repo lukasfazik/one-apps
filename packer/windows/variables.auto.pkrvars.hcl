@@ -32,12 +32,12 @@ iso_files = {
     iso_checksum = "sha256:c90a6df8997bf49e56b9673982f3e80745058723a707aef8f22998ae6479597d"
   }
   windows11ConsumerEditions = {
-    iso_url      = "https://www.fi.muni.cz/~xfazik/iso/en-us_windows_11_consumer_editions_version_25h2_x64_dvd_9934ee4c.iso"
-    iso_checksum = "sha256:d141f6030fed50f75e2b03e1eb2e53646c4b21e5386047cb860af5223f102a32"
+    iso_url      = "https://www.fi.muni.cz/~xfazik/iso/en-us_windows_11_consumer_editions_version_25h2_updated_dec_2025_x64_dvd_115b2867.iso"
+    iso_checksum = "sha256:01c560b8b1861e37647a6be2e8c609c465d541bfae9af0e136f5ae4f991fc432"
   }
   windows11BusinessEditions = {
-    iso_url      = "https://www.fi.muni.cz/~xfazik/iso/en-us_windows_11_business_editions_version_25h2_x64_dvd_41c521e7.iso"
-    iso_checksum = "sha256:2b65df49334b64e9341dc404e9c527bf1b2a9a105e95314a347fd29ac9900581"
+    iso_url      = "https://www.fi.muni.cz/~xfazik/iso/en-us_windows_11_business_editions_version_25h2_updated_dec_2025_x64_dvd_e9c929fc.iso"
+    iso_checksum = "sha256:40956055765fee26d7212ef10e0ecc2cd6222e1dfb5cbf2b139929b6625a3f60"
   }
   windows11EnterpriseLTSC2024 = {
     iso_url      = "https://fi.muni.cz/~xfazik/iso/en-us_windows_11_enterprise_ltsc_2024_x64_dvd_965cfb00.iso"
@@ -60,11 +60,11 @@ iso_files = {
     iso_checksum = "sha256:299f93390dd6dc3f53b332f38f5d3845e6dde40d855286712c42f9bb97e406ac"
   }
   server2022 = {
-    iso_url      = "https://fi.muni.cz/~xfazik/iso/en-us_windows_server_2022_updated_sep_2025_x64_dvd_c3bc267b.iso"
-    iso_checksum = "sha256:ccfff5925a76aea8b28fcf1724974e89de7d5305993c7f63a802649fbe8336a0"
+    iso_url      = "https://fi.muni.cz/~xfazik/iso/en-us_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso"
+    iso_checksum = "sha256:8e17eefb4637e371c839267779ae6daeb65fa3aa05dad88d83226a4f4650ade3"
   }
   server2025 = {
-    iso_url      = "https://fi.muni.cz/~xfazik/iso/en-us_windows_server_2025_updated_sep_2025_x64_dvd_6d1ad20d.iso"
-    iso_checksum = "sha256:7135f1e47bacd6b840837c511f9854012445950196d87a0d04f72512ff246b5f"
+    iso_url      = "https://fi.muni.cz/~xfazik/iso/en-us_windows_server_2025_updated_dec_2025_x64_dvd_c54ab58b.iso"
+    iso_checksum = "sha256:F3E277E75ACDB793E6F08F4880B514AE0046CEDF618C22F727890E54367075E6"
   }
 }
