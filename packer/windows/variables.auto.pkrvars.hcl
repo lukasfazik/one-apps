@@ -1,11 +1,11 @@
 iso_files = {
   windows10ConsumerEditions = {
-    iso_url      = "https://fi.muni.cz/~xfazik/iso/en-us_windows_10_consumer_editions_version_22h2_updated_sep_2025_x64_dvd_4a22741d.iso"
-    iso_checksum = "sha256:4fc95da8dd0df4c518f320f99dc551decb9c74f83685c9436674411d5ede6245"
+    iso_url      = "https://fi.muni.cz/~xfazik/iso/en-us_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso"
+    iso_checksum = "sha256:600cdace2acf41e7f2f3cf68957fde58dbe23077ddffa7dce408f14d4915d14c"
   }
   windows10BusinessEditions = {
-    iso_url      = "https://fi.muni.cz/~xfazik/iso/en-us_windows_10_business_editions_version_22h2_updated_sep_2025_x64_dvd_02d278dd.iso"
-    iso_checksum = "sha256:5b13c6124be5987d62ea850adf8bddd2a5c7e55576f065b75d35c95fca85736e"
+    iso_url      = "https://fi.muni.cz/~xfazik/iso/en-us_windows_10_business_editions_version_22h2_updated_oct_2025_x64_dvd_d2eef4b0.iso"
+    iso_checksum = "sha256:2c23bc8b95a9314f15ebff881dcbea49651f52a96a0327d7aaf523aa66043765"
   }
   windows10EnterpriseLTSC2015 = {
     iso_url      = "https://fi.muni.cz/~xfazik/iso/en_windows_10_enterprise_2015_ltsb_x64_dvd_6848446.iso"
