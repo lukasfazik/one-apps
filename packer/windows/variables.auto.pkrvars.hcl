@@ -60,8 +60,8 @@ iso_files = {
     iso_checksum = "sha256:299f93390dd6dc3f53b332f38f5d3845e6dde40d855286712c42f9bb97e406ac"
   }
   server2022 = {
-    iso_url      = "https://fi.muni.cz/~xfazik/iso/en-us_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso"
-    iso_checksum = "sha256:8e17eefb4637e371c839267779ae6daeb65fa3aa05dad88d83226a4f4650ade3"
+    iso_url      = "https://fi.muni.cz/~xfazik/iso/en-us_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso"
+    iso_checksum = "sha256:89abc491c517ed98b1ef7f583122c65f2f73c1400e2dcade4430b3d0c274c1be"
   }
   server2025 = {
     iso_url      = "https://fi.muni.cz/~xfazik/iso/en-us_windows_server_2025_updated_dec_2025_x64_dvd_c54ab58b.iso"
