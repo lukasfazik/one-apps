@@ -32,12 +32,12 @@ iso_files = {
     iso_checksum = "sha256:c90a6df8997bf49e56b9673982f3e80745058723a707aef8f22998ae6479597d"
   }
   windows11ConsumerEditions = {
-    iso_url      = "https://www.fi.muni.cz/~xfazik/iso/en-us_windows_11_consumer_editions_version_25h2_updated_dec_2025_x64_dvd_115b2867.iso"
-    iso_checksum = "sha256:01c560b8b1861e37647a6be2e8c609c465d541bfae9af0e136f5ae4f991fc432"
+    iso_url      = "https://www.fi.muni.cz/~xfazik/iso/en-us_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso"
+    iso_checksum = "sha256:cb98558bbfd2f9abaf19b519dab4cf217d43e3e7db345ef63ea233ce757e4417"
   }
   windows11BusinessEditions = {
-    iso_url      = "https://www.fi.muni.cz/~xfazik/iso/en-us_windows_11_business_editions_version_25h2_updated_dec_2025_x64_dvd_e9c929fc.iso"
-    iso_checksum = "sha256:40956055765fee26d7212ef10e0ecc2cd6222e1dfb5cbf2b139929b6625a3f60"
+    iso_url      = "https://www.fi.muni.cz/~xfazik/iso/en-us_windows_11_business_editions_version_25h2_updated_jan_2026_x64_dvd_09c1e011.iso"
+    iso_checksum = "sha256:3f50aee84ac5f1115dd3ec1053b1b2b62cf2bbaae4851ec330bc96383689be1e"
   }
   windows11EnterpriseLTSC2024 = {
     iso_url      = "https://fi.muni.cz/~xfazik/iso/en-us_windows_11_enterprise_ltsc_2024_x64_dvd_965cfb00.iso"
